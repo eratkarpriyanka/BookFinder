@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorRed">#df0505</color>
+    <color name="cursorAccent">#c29a64</color>
+    <color name="controlNormal">#6b948c</color>
+    <color name="controlActivated">#bcba76</color>
+</resources>
